@@ -54,7 +54,7 @@ SELECT * FROM credito limit 10;
 
 DESCRIBE credito;
 
-"""<img src="http://github.com/msbecalm/Exploracao-e-Analise-de-dados-de-credito-com-SQL-/blob/main/Untitled%20(1).png?raw=true">
+![Imagem 1](http://github.com/msbecalm/Exploracao-e-Analise-de-dados-de-credito-com-SQL-/blob/main/Untitled%20(1).png?raw=true)
 
 **Quais são as categorias presentes na coluna escolaridade?**
 """
